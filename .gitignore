@@ -1,0 +1,5 @@
+*.o
+*.a
+svgtopng
+test
+xmldump
